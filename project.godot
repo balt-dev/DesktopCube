@@ -10,7 +10,8 @@ config_version=4
 
 [application]
 
-config/name="window"
+config/name="Desktop Cube"
+config/description="A draggable cube for your desktop."
 run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
